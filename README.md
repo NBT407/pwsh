@@ -1,6 +1,7 @@
 # Cheat sheet
 
 ## Docker
+[![Docker](./imags/Docker.png)](https://google.com)
 
 ## Kubernetes
 
@@ -151,6 +152,6 @@ bla bla bla <br> more bal bla
 </details>
 
 <!-- tip-->
-#callouts
+# callouts
 > :bulb **Tip:**-here is an tip!
 
