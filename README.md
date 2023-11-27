@@ -1,7 +1,7 @@
 # Cheat sheet
 
 ## Docker
-[![Docker](./imags/Docker.png)](https://google.com)
+[![Docker](./images/docker-logo.svg)](https://google.com)
 
 ## Kubernetes
 
