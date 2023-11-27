@@ -136,3 +136,21 @@ ___
 
 <!-- some text-->
 bla bla bla <br> more bal bla
+
+<!-- Email Address-->
+<john.doe@gmail.com>
+
+<!-- hidden text-->
+<details>
+    <summary>Section Header</summary>
+
+    Section body text.
+    * list 1
+    * list 2
+
+</details>
+
+<!-- tip-->
+#callouts
+> :bulb **Tip:**-here is an tip!
+
