@@ -1,7 +1,8 @@
 # Cheat sheet
 
 ## Docker
-[![Docker](./images/docker-logo.svg)](https://google.com)
+[![Docker](./images/docker-logo.svg "val")](https://google.com)
+<img src="./images/docker-logo.svg" width="100" height="100">
 
 ## Kubernetes
 
@@ -93,6 +94,14 @@ ___
 
   Stop-Service
 ```
+```kubectl
+  PS C:\> kubectl top pods -n pess-dev
+
+  Stop-Service
+```
+
+
+
 ```javascript
   function add(num1, num2) {
     return num1 + num2;

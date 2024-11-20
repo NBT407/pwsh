@@ -18,6 +18,8 @@ $exchangeRate = $response.rates.$targetCurrency
 # Display the result
 Write-Output "1 $baseCurrency = $exchangeRate $targetCurrency"
 $DKK = $response.rates.SEK / $response.rates.DKK
+$USD = $response.rates.SEK / $response.rates.USD
 Write-Output "1 $targetCurrency = $DKK"
+Write-Output "1 USD = $USD Sek"
 
 
